@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/rhhen122/rhhen122/refs/heads/main/.shh/logo.png">
 # RHHEN122
 ## About me!
 <p>Hi! im rhhen122! Im a programmer trying to abolish beauty standards when it comes to code!
