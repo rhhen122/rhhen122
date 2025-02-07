@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/rhhen122/rhhen122/refs/heads/main/.shh/logo.png" width="100" height="100"></img>
-# RHHEN122 <a href="https://iamcitrus.neocities.org/"><b>MY BLOG</b></a>
+# RHHEN122 <a> | </a><a href="https://iamcitrus.neocities.org/"><b>MY BLOG</b></a>
 🐍🐍🐍
 ## About me!
 🐍🐍🐍
