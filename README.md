@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/rhhen122/rhhen122/refs/heads/main/.shh/dudething.png" height="80">
+<img src="https://avatars.githubusercontent.com/u/195695145?v=4" height="80">
 <h1>rhhen122</h1>
 <p>Hi im <b>rhhen122</b>. I like linux MacOS and many other computer things.</p>
 
