@@ -8,6 +8,8 @@
 
 - [x] Go(Lang)
 - [x] Python
+- [x] Rust
+- [x] Ruby
 
 ###
 <h2>OS's</h2>
