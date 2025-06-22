@@ -3,6 +3,9 @@
 <h1>rhhen122</h1>
 <p>Hi im <b>rhhen122</b>. I like linux MacOS and many other computer things.</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=rhhen122&show_icons=true&theme=gruvbox" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhhen122&show_icons=true&theme=gruvbox">
+
 ###
 <h2>Langs</h2>
 
