@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/195695145?v=4" height="80">
 <h1>rhhen122</h1>
+<a href="https://github.com/rhhen122/rhhenvim">My Neovim Config</a>
 <p>Hi im <b>rhhen122</b>. I like linux MacOS and many other computer things.</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rhhen122&show_icons=true&theme=gruvbox" align="left">
