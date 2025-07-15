@@ -6,14 +6,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rhhen122&show_icons=true&theme=gruvbox" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhhen122&show_icons=true&theme=gruvbox">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" align="right" height="100">
 
 ###
 <h2>Langs</h2>
-
+<div align="left">
+  
+- [x] C
 - [x] Go(Lang)
 - [x] Python
 - [x] Rust
 - [x] Ruby
+</div>
 
 ###
 <h2>OS's</h2>
