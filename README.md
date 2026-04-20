@@ -7,7 +7,7 @@
 
 ###
 <h2>Langs</h2>
-<div align="left">
+<div align="center">
   
 - [x] C
 - [x] Go(Lang)
@@ -20,7 +20,6 @@
 
 ###
 <h2>OS's</h2>
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png">
 <img height="50" src="https://www.freebsd.org/images/banner-red.png">
 <img height="50" src="https://gitlab.archlinux.org/uploads/-/system/group/avatar/23/iconfinder_archlinux_386451.png">
 <img height="50" src="https://www.debian.org/Pics/openlogo-50.png">
