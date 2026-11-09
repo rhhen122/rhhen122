@@ -37,9 +37,9 @@
 
 ## Projects
 
-- **GitSmiles** — A Python-powered deployment tool.
 - **netSearch** — A multithreaded web crawler written in Java.
 - **MiniPad** — A lightweight text editor.
+- **GitSmiles** — A Python-powered deployment tool.
 
 </div>
 
